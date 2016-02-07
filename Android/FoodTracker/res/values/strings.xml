@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FoodTracker</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="AddFood">Add</string>
+    <string name="RegisterUser">Register</string>
+    <string name="History">History</string>
+
+</resources>
