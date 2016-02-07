@@ -1,0 +1,30 @@
+{
+  "name": "FoodTracker",
+  "version": "0.0.0",
+  "description": "Server for food tracking application",
+  "main": "server.js",
+  "dependencies": {
+    "grunt-cli": "~0.1.13",
+    "sqlite3": "~3.1.1",
+    "utils": "~0.3.1"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-uglify": "~0.11.1",
+    "grunt-jsdoc": "~1.1.0",
+    "sqlite3": "~3.1.1"
+  },
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CostinCarabas/FoodTracker.git"
+  },
+  "author": "Costin Carabas, Irina Patru",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/CostinCarabas/FoodTracker/issues"
+  }
+}
